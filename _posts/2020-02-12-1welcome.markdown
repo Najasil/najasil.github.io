@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2020-02-12 11:50:27 +0100
+categories: jekyll update
+---
+Lovely to have you here! 
+
+As a part-time English teacher, I'm constantly looking for ways to keep my lessons interesting and lively, both for me and my students. 
+I'm always on the hunt for new games, activities and material to use with the kids. 
+If you are working with children as well, chances are, you too are looking for fresh ideas to diversify your lessons. 
+
+
+If my children's reaction is "What? Time is already up?" at the end of a lesson, I know, the lesson went well. The more fun you have, the easier you learn and the faster time flies.
+
+
+In sharing my ideas with you, I hope to be an inspiration for you and to spark new ideas. 
+I would love for you to do the same and share your amazing ideas with the world, so we can all learn from each other and with each other!
+
+**Learning is fun, when you do it together.**
+
+So grab a cup of coffee, get comfy and browse through the posts. I hope you'll find something you can use.
+
+
+<img src="https://images.unsplash.com/photo-1564429238817-393bd4286b2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60 " alt="NAME" width="500"/>
+
+

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Bodyparts 4 in a row"
+date:   2020-02-12 11:50:27 +0100
+categories: jekyll update
+---
+
+
+This board game is great to practice and review new vocabulary on bodyparts, as well as sentence formation. It is best played in teams.
+To win a square the students have to form a (more or less) true sentence including the respective bodypart (e.g. "I am shaking my **head**.")
+The squares with smileys are jokers, here they can choose a bodypart. The team to first get four markers in a row wins. 
+<img src="https://i.imgur.com/CK7IcaK.jpg " alt="bodyparts4inarow" width="500"/>
+
+A more challenging version of the game would be to have them form sentences using the bodypart that was just used by the other group, as well as a new one to win a new square (e.g. " I am crossing my **arms** above my **head**").
+
+You can [download the 4 in a row here](https://smallpdf.com/shared#st=cb12427a-f23b-4bfc-b2a0-7e687977d3a7&fn=bodyparts4inarow-images.zip&ct=1581526838295&tl=extract&rf=link). 
+
+Print it on A3 and laminate it. Have fun playing!
+
